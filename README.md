@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-![COVID-19 Tracker](https://www.dropbox.com/s/m007hctcpyd861p/covid-19%20tracker.png?dl=0)
+![COVID-19 Tracker](https://www.dropbox.com/s/m007hctcpyd861p/covid-19%20tracker.png)
 
 
 
