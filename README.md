@@ -2,7 +2,7 @@
 
 ![COVID-19 Tracker](https://www.dropbox.com/s/m007hctcpyd861p/covid-19%20tracker.png)
 
-
+### [Live Site](https://covid-19-world-tracker.herokuapp.com/)
 
 ## Available Scripts
 
