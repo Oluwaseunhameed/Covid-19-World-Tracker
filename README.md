@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-![COVID-19 Tracker](https://www.dropbox.com/s/m007hctcpyd861p/covid-19%20tracker.png)
+![COVID-19 Tracker](https://res.cloudinary.com/seunstore/image/upload/v1594112641/covid-19_tracker_eit5vc.png)
 
 ### [Live Site](https://covid-19-world-tracker.herokuapp.com/)
 
